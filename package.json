@@ -19,13 +19,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/taqft/MoonBay.git"
+    "url": "git+https://github.com/RickyRicer/MoonBay.git"
   },
   "keywords": [],
   "bugs": {
     "url": "https://github.com/taqft/MoonBay/issues"
   },
-  "homepage": "https://github.com/taqft/MoonBay#readme",
+  "homepage": ".",
   "dependencies": {
     "@apollo/server": "^4.9.3",
     "axios": "^0.26.1",
