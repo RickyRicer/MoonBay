@@ -21,7 +21,7 @@ export default function AppFooter() {
               sx={{ height: 120 }}
             >
               <Grid item sx={{ display: 'flex' }}>
-                <Link href="https://linktr.ee/rickyricer?utm_source=linktree_profile_share&ltsid=6618688c-1d28-411f-8068-8a3835741233" >
+                <Link href="https://github.com/RickyRicer" >
                   <img
                     src="/static/GitHub-Mark-32px.png"
                     alt="GitHub"
